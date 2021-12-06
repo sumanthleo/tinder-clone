@@ -1,0 +1,11 @@
+.Header-Icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid rgb(250, 246, 246);
+}
+
+.tinder-logo{
+    height: 50px;
+    object-fit:cover;
+}
