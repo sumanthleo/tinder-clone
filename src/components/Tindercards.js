@@ -16,10 +16,10 @@ function Tindercards() {
     <div>
       <div className="Container">
         {people.map((person) => (
-          <TinderCard
+          <TinderCard                                                          
             className="swipe"
             key={person.name}
-            preventSwipe={["up", "down"]}
+            preventSwipe={["down", "up"]}
           >
             <div
               style={{ backgroundImage: `url(${person.url})` }}

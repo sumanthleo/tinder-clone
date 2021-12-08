@@ -1,0 +1,50 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20vh;
+    padding: 10px;
+    
+}
+body{
+    background-color: rgb(192, 247, 228);
+}
+
+h2{
+    font-family: cursive;
+    color: rgb(243, 88, 88);
+    font-size: 30px;
+   
+}
+
+#email{
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 5px;
+
+}
+#password{
+    padding: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 3px;
+}
+button{
+    padding: 5px 70px 5px 70px;
+    background-color: rgb(57, 128, 235);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 15px;
+    font-family: cursive;
+}

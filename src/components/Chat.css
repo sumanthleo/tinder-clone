@@ -1,0 +1,22 @@
+.image-icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px;
+    height: 77px;
+    border-bottom: 2px solid rgb(247, 243, 243);
+}
+
+
+.chat-details{
+    flex: 1;
+    margin-left: 10px;
+}
+.chat-details > p {
+    color: grey;
+}
+
+
+.time{
+    color: gray;
+}
