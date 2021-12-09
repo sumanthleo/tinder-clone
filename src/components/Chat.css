@@ -12,6 +12,9 @@
     flex: 1;
     margin-left: 10px;
 }
+.chat-details:hover {
+    border: 3px solid transparent;
+}
 .chat-details > p {
     color: grey;
 }
